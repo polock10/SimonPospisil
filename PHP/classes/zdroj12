@@ -1,0 +1,6 @@
+<?php
+
+
+class zdroj12 {
+    protected $napeti = 12;
+}

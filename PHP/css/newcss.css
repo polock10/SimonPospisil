@@ -1,0 +1,66 @@
+body {
+    background-color:grey
+
+}
+div {
+    color:aqua
+}
+div div {
+    color:white
+}
+div div div {
+    color:blue
+}
+li {
+    color:white;
+    float:left;
+    margin-left:20px;
+    list-style:none;
+}
+a {
+    color:chartreuse
+
+}
+.mezera {
+    color:red;
+}
+
+.table1 {
+    background-color:azure;
+    border-bottom-color: red;
+    border-top-color: black;
+    border-left-color: khaki;
+    border-right-color: cyan;
+
+
+}
+.table1 tr {
+
+
+
+}
+.table1 tr td {
+    font-size: 20px;
+    color:red
+}
+
+.hlava {
+    color: blue;
+    font-style:italic;
+    font-size: 40px
+
+}
+
+.paticka {
+    font-style: italic;
+    color:blue;
+    font-weight: bold;
+
+
+}
+
+.hlava1 {
+    color:blue;
+    font-style: italic;
+    font-weight: bold;
+}
