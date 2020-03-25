@@ -36,8 +36,11 @@ $message = "Tak tohle je ten text co bude stat za hovno protoze budu delat"
 
         echo "<br>";
         $BlackList = array("hovno" . "prdel" . "pica" . "zmrd");
+        include 'oop.php'; 
 
-//funkce kontrola textu sprostych slov
+/*
+  funkce kontrola textu sprostych slov
+ 
 
         function check($message, $BlackList) {
             foreach ($BlackList as $value) {
@@ -81,3 +84,4 @@ $message = "Tak tohle je ten text co bude stat za hovno protoze budu delat"
 
 
 
+*/
